@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mastercode-io-scaflog-zoho-mcp-server-badge.png)](https://mseep.ai/app/mastercode-io-scaflog-zoho-mcp-server)
+
 # scaflog-zoho-mcp-server MCP server
 
 Zoho Creator Scaflog App MCP Server
